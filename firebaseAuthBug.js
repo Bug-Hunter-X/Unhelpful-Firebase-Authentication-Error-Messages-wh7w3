@@ -1,0 +1,1 @@
+The Firebase Authentication SDK might throw an unexpected error if the provided email/password combination is incorrect or if the user account is disabled.  The error message isn't always very descriptive, making debugging difficult. For example, a generic 'auth/invalid-email' might not clarify if the issue is a bad email format, a disabled account, or simply wrong credentials.
